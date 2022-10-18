@@ -1,0 +1,23 @@
+Archivos sobre delincuencia en Sonora
+
+        Datos sobre los delitos denunciados oficialmente en la página del Secretariado Ejecutivo del Sistema Nacional 
+        de Seguridad Pública, complementados con datos del INEGI sobre la percepción sobre seguridad pública en Sonora.             
+
+        Los datos se obtuvieron del SESNSP con fecha de 20 de septiembre de 2022 (la base de datos se actualiza constantemente) 
+
+        
+Descargado el 2022-10-18 08:58:01
+Desde: https://drive.google.com/u/0/uc?id=10fm7xF4F6X1uGDRNw5aEMOJo_GsFIeTR&export=download
+Nombre: delitos.csv
+Agregados sobre percepción nacional descargados desde: https://www.inegi.org.mx/contenidos/programas/envipe/2017/datosabiertos/ENVIPE_2017_csv.zip
+Nombre: 2017_percepción.zip
+Agregados sobre percepción nacional descargados desde: https://www.inegi.org.mx/contenidos/programas/envipe/2018/datosabiertos/conjunto_de_datos_ENVIPE2018_csv.zip
+Nombre: 2018_percepción.zip
+Agregados sobre percepción nacional descargados desde: https://www.inegi.org.mx/contenidos/programas/envipe/2019/datosabiertos/conjunto_de_datos_ENVIPE2019_csv.zip
+Nombre: 2019_percepción.zip
+Agregados sobre percepción nacional descargados desde: https://www.inegi.org.mx/contenidos/programas/envipe/2020/datosabiertos/conjunto_de_datos_ENVIPE2020_csv.zip
+Nombre: 2020_percepción.zip
+Agregados sobre percepción nacional descargados desde: https://www.inegi.org.mx/contenidos/programas/envipe/2021/datosabiertos/conjunto_de_datos_ENVIPE_2021_csv.zip
+Nombre: 2021_percepción.zip
+Agregados sobre percepción nacional descargados desde: https://www.inegi.org.mx/contenidos/programas/envipe/2022/datosabiertos/conjunto_de_datos_ENVIPE_2022_csv.zip
+Nombre: 2022_percepción.zip
