@@ -1,10 +1,12 @@
 # Proyecto-Ingenieria-de-Caracteristicas
 
-El objetivo de este proyecto es aplicar los conocimientos adquiridos en la materia de Ingeniería de Características para generar un Dashboard que nos cuente la historia sobre la inseguridad en el estado de Sonora y se compone de 3 partes: 
+El objetivo de este proyecto es aplicar los conocimientos adquiridos en la materia de Ingeniería de Características para generar un Dashboard que nos cuente la historia sobre la inseguridad en el estado de Sonora utilizando datos públicos sobre incidencias delictivas del [*Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública*](https://www.gob.mx/sesnsp), así como datos sobre la percepción de la inseguridad de la *Encuesta Nacional de Victimización y Percepción sobre la Seguridad Pública (ENVIPE)* y del *Censo Poblacional*, recabados por el [INEGI](https://www.inegi.org.mx/default.html). 
+
+El proyecto se compone de 3 partes: 
 
 * Proyecto 1.
   ## Descargando datos de la web
-  La obtención de datos es muy importante, y fuera de los datos públicos que podemos descargar directamente como tablas csv, json o xml, es importante saber como           utilizar una API para poder obtener datos de diferentes aplicaciones. Igualmente, es importante saber como tratar cada tipo de datos que tenemos y tener una visión       general de ellos.
+    La obtención de datos es muy importante, y fuera de los datos públicos que podemos descargar directamente como tablas csv, json o xml, es importante saber como           utilizar una API para poder obtener datos de diferentes aplicaciones. Igualmente, es importante saber como tratar cada tipo de datos que tenemos y tener una visión       general de ellos.
 
 En este proyecto individual, cada uno va a desarrollar un pequeño programa que ayude a descargar datos a partir de diferentes APIs, o usando un método para descargas masivas.
 
