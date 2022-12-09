@@ -4,9 +4,8 @@ El objetivo de este proyecto es aplicar los conocimientos adquiridos en la mater
 
 El proyecto se compone de 3 partes: 
 
-1.  ## Proyecto 1.
-  ## [Descargando datos de la web](https://github.com/osirisizs/Proyecto-Ingenieria-de-Caracteristicas/blob/main/Proyecto1_Descargando_Datos.ipynb)
-    La obtención de datos es muy importante, y fuera de los datos públicos que podemos descargar directamente como tablas csv, json o xml, es importante saber como           utilizar una API para poder obtener datos de diferentes aplicaciones. Igualmente, es importante saber como tratar cada tipo de datos que tenemos y tener una visión       general de ellos.
+## 1. Proyecto 1. [Descargando datos de la web](https://github.com/osirisizs/Proyecto-Ingenieria-de-Caracteristicas/blob/main/Proyecto1_Descargando_Datos.ipynb)
+   En esta libreta se documenta la obtención de los datos de las 3 fuentes mencionadas al principio por medio de APIs, así como su respectiva limpieza, normalización,      unión y generación de diccionarios de datos y [archivos parquet].
 
 En este proyecto individual, cada uno va a desarrollar un pequeño programa que ayude a descargar datos a partir de diferentes APIs, o usando un método para descargas masivas.
 
