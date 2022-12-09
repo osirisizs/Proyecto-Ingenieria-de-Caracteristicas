@@ -1,7 +1,10 @@
 # Proyecto-Ingenieria-de-Caracteristicas
 
-## Descargando datos de la web
-La obtención de datos es muy importante, y fuera de los datos públicos que podemos descargar directamente como tablas csv, json o xml, es importante saber como utilizar una API para poder obtener datos de diferentes aplicaciones. Igualmente, es importante saber como tratar cada tipo de datos que tenemos y tener una visión general de ellos.
+El objetivo de este proyecto es aplicar los conocimientos adquiridos en la materia de Ingeniería de Características para generar un Dashboard que nos cuente la historia sobre la inseguridad en el estado de Sonora y se compone de 3 partes: 
+
+* Proyecto 1.
+  ## Descargando datos de la web
+  La obtención de datos es muy importante, y fuera de los datos públicos que podemos descargar directamente como tablas csv, json o xml, es importante saber como           utilizar una API para poder obtener datos de diferentes aplicaciones. Igualmente, es importante saber como tratar cada tipo de datos que tenemos y tener una visión       general de ellos.
 
 En este proyecto individual, cada uno va a desarrollar un pequeño programa que ayude a descargar datos a partir de diferentes APIs, o usando un método para descargas masivas.
 
